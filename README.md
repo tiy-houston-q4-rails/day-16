@@ -8,3 +8,10 @@ href='http://codepen.io/jwo/pen/vdlKf/'>vdlKf</a> by Jesse Wolgamott (<a
 href='http://codepen.io/jwo'>@jwo</a>) on <a
 href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
+
+
+Assignment
+==========
+
+* Finish Surf and Paddle, using the Codepen above as reference
+* Make sure to get colors, HTML correct
